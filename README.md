@@ -1,8 +1,10 @@
-## Hello World 👋!!!
-*[Twitter](http://twitter.com/didachos24)
-*[didachos24.dev](http://didachos24.dev)
+## Hello World :earth_americas:!!!
+* [Twitter](https://twitter.com/didachos24)
+* [Linkedin](https://www.linkedin.com/in/diego-francisco-montealegre-silva-a171b352/)
+* [didachos24.dev](http://didachos24.dev)
+* :email: didachos24@gmail.com
 
-My name is Diego, colombian enthusiastic of technology learning 
+My name is Diego, :co: colombian enthusiastic of technology learning web development (MERN stack)
 
 <!--
 **didachos24/didachos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
