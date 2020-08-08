@@ -1,5 +1,7 @@
 ## Hello World :earth_americas:!!!
-* [Twitter](https://twitter.com/didachos24)
+
+Reach me:
+* :twitter: [Twitter](https://twitter.com/didachos24)
 * [Linkedin](https://www.linkedin.com/in/diego-francisco-montealegre-silva-a171b352/)
 * [didachos24.dev](http://didachos24.dev)
 * :email: didachos24@gmail.com
