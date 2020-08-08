@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hello World 👋!!!
+*[Twitter](http://twitter.com/didachos24)
+*[didachos24.dev](http://didachos24.dev)
 
-My name is Diego, 
+My name is Diego, colombian enthusiastic of technology learning 
 
 <!--
 **didachos24/didachos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
