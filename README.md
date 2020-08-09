@@ -1,14 +1,14 @@
-## Hello World :earth_americas:!!!
+## :earth_americas: Hi World!!!
 
-Reach me:
+#### Reach me:
 * [Twitter](https://twitter.com/didachos24)
-* [Linkedin](https://www.linkedin.com/in/diego-francisco-montealegre-silva-a171b352/)
+* [LinkedIn](https://www.linkedin.com/in/diego-francisco-montealegre-silva-a171b352/)
 * [didachos24.dev](http://didachos24.dev)
 * :email: didachos24@gmail.com
 
-My name is Diego, colombian enthusiastic of technology learning web development (MERN stack), living in Chicago, IL. :us:
+My name is Diego, colombian enthusiastic of technology learning web development (MERN stack), I live in Chicago, IL. I attend to a bootcamp of Northwerstern University, now I am working on improve my frontend skills developing a few of websites that you guys can find in my Github profile :octocat:.
 
-Mi nombre es Diego, colombiano entusiasta de la tecnología aprendiendo desarrollo web (MERN stack), vivo en Chicago, IL. :us:
+Mi nombre es Diego, colombiano entusiasta de la tecnología aprendiendo desarrollo web (MERN stack), vivo en Chicago, IL. Asistí al bootcamp de Northwestern University en 2019. Ahora estoy trabajando en mejorar mis habilidades en frontend desarrollando unos websites que pueden encontrar en mi perfil de Github :octocat:.
 
 <!--
 **didachos24/didachos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
